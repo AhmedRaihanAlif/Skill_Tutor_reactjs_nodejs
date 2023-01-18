@@ -1,0 +1,12 @@
+.link-color {
+    color: orangered;
+}
+.alignment {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: orangered !important;
+    outline: none;
+    border:none;
+}
